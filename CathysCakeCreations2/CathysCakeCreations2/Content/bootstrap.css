@@ -3985,6 +3985,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li {
   position: relative;
   display: block;
+  font-size: 20px;
 }
 .nav > li > a {
   position: relative;
